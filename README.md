@@ -1,3 +1,4 @@
+![logo](https://github.com/abhineet2/abhineet2/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abhineet Pandey</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
