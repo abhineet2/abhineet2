@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Abhineet Pandey</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhineet2&label=Profile%20views&color=0e75b6&style=flat" alt="abhineet2" /> </p>
 
@@ -13,11 +14,11 @@
 
 - 📫 How to reach me **skpandey6415@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am Jolly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Instagram - abhineet784
+  <a href="https://instagram.com/abhineet784/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50" alt="abhineet784" ></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
