@@ -1,5 +1,5 @@
 
-![logo](https://github.com/abhineet2/abhineet2/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/abhineet2/abhineet2/blob/eee9417b4a5890cedf4e17a2ed98a9fa7b90bd85/Abhineet%20Pandey%20(1).gif)
 <h1 align="center">Hi 👋, I'm Abhineet Pandey</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
