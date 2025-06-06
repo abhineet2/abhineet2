@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhineet2&label=Profile%20views&color=0e75b6&style=flat" alt="abhineet2" /> </p>
 
-- 🔭 I’m currently working on **Homie**
+- 🔭 I’m currently working on **Some intersting projects**
 
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 I’m exploring more in **Data Analytics**
 
 - 📫 How to reach me **skpandey6415@gmail.com**
 
